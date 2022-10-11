@@ -1,0 +1,35 @@
+header {
+  font-family: Regular,Light,Open Sans,sans-serif;
+  font-weight: 400;
+  background-image: url(img/header_bg.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 0 0;
+  background-color: #fcfcfc;
+  height: 700px; }
+
+.icon {
+  mask-image: url(eye-open.svg);
+  -webkit-mask-image: url(eye-open.svg); }
+  .icon .icon-eye {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: #fff;
+    mask-repeat: no-repeat;
+    mask-size: 100%;
+    mask-position: center center;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: 100%;
+    -webkit-mask-position: center center; }
+footer{
+
+  background-image: url(https://cirk.uz/src/images/footer_bg.png);
+  background-size: 100% 100%;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-color: #fcfcfc;
+  min-height: 250px;
+}
+/*# sourceMappingURL=style.css.map */
